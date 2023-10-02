@@ -9,5 +9,8 @@ public class MainMenu : MonoBehaviour
     {
         SceneManager.LoadScene("Game");
     }
-
+    public void Pause()
+    {
+        SceneManager.LoadScene("Pause");
+    }
 }
