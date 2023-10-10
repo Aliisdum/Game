@@ -11,6 +11,7 @@ public class MainMenu : MonoBehaviour
     }
      public void Play12()
     {
+        print("deneme");
         SceneManager.LoadScene("Car1Game2");
     }
       public void Play21()
