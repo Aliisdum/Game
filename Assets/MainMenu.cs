@@ -27,4 +27,12 @@ public class MainMenu : MonoBehaviour
     {
         SceneManager.LoadScene("Car2 Game2");
     }
+     public void Map1()
+    {
+        SceneManager.LoadScene("Car1 Map Chose");
+    }
+      public void Map2()
+    {
+        SceneManager.LoadScene("Car2 Map Chose");
+    }
 }
