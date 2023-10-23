@@ -39,4 +39,8 @@ public class MainMenu : MonoBehaviour
     {
         SceneManager.LoadScene("Menu");
     }
+      public void Multiplayer()
+    {
+        SceneManager.LoadScene("LobbyScene");
+    }
 }
