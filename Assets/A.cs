@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class A : MonoBehaviour
+public class S : MonoBehaviour
 {
     public float speed = 10.0f;        // Speed of the car.
     public float rotationSpeed = 100.0f;  // Rotation speed of the car.
